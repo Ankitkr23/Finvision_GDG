@@ -1,3 +1,5 @@
+ FINVISION :
+
 1) Use Requests, Selenium Web Driver, Beautiful Soup, and Scrapy to web scrape data of Nifty50 Stocks 
       Containing PE, EPS, 52 Week High/Low, Lower and Upper Circuit, LTP, and Market Cap   
  , Volume, % Change, and convert to DataFrame.
